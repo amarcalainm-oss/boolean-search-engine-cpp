@@ -12,7 +12,7 @@ int main()
 	//AITOR
 	procesarConsultas("indice.txt", "consultas.txt", "resultados_consultas.txt");
 
-	//Denok
+	//Todos
 	procesarPeticiones("indice.txt","peticiones.txt","log_procesamiento.txt");
 
 	//Experimento 1 
