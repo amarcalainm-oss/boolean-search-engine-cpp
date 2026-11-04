@@ -5,7 +5,7 @@ Motor de búsqueda de documentos escrito en **C++17** desde cero, solo con la ST
 Es la misma idea que está en la base de los motores de búsqueda y de la fase de *retrieval* en sistemas RAG: indexar una vez y responder consultas rápido.
 
 Proyecto de *Estructuras de Datos y Algoritmos* (Ingeniería en IA, TECNUN – Universidad de Navarra, curso 2025-26).
-**Autores:** Beñat, Aitor Marcalain e Iker.
+**Autores:** Beñat Ilzarbe, Aitor Marcalain e Iker Elias.
 
 ## Cómo funciona
 
