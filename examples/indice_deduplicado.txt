@@ -1,0 +1,7 @@
+-- Fichero: indice_deduplicado.txt --
+
+aprendizaje -> [3]
+aprende -> [1]
+artificial -> [1]
+automatico -> [3]
+inteligencia -> [3, 1]

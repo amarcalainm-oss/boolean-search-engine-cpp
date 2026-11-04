@@ -1,0 +1,4 @@
+inteligencia AND datos
+algoritmos OR aprendizaje
+inteligencia AND artificial AND datos
+busqueda OR algoritmos AND datos

@@ -1,0 +1,16 @@
+-- Fichero de salida: log_procesamiento.txt --
+
+[09:00:01] PROCESANDO -> usuario_42: 'inteligencia AND datos'
+-> Documentos encontrados: [1, 3] | Tiempo: 2microsec
+
+[09:00:02] PROCESANDO -> usuario_17: 'algoritmos OR aprendizaje'
+-> Documentos encontrados: [2, 3] | Tiempo: 1microsec
+
+[09:00:02] PROCESANDO -> usuario_99: 'busqueda'
+-> Documentos encontrados: [2] | Tiempo: 2microsec
+
+[09:00:05] PROCESANDO -> usuario_42: 'inteligencia AND artificial AND datos'
+-> Documentos encontrados: [1, 3] | Tiempo: 10microsec
+
+Total peticiones procesadas: 4
+Orden de procesamiento respetado: SI

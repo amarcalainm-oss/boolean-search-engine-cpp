@@ -1,0 +1,346 @@
+-- Fichero: corpus.txt --
+
+DOC:1
+procesamiento neuronal algoritmos red informacion algoritmos optimizacion procesamiento informacion
+
+DOC:2
+analisis informacion lenguaje vector imagen profundo estadistica texto artificial imagen
+
+DOC:3
+informacion prediccion informacion red aprendizaje imagen procesamiento estadistica inteligencia estadistica
+
+DOC:4
+clasificacion entrenamiento sistema automatico busqueda aprendizaje clasificacion
+
+DOC:5
+prediccion profundo datos procesamiento estadistica estadistica lenguaje
+
+DOC:6
+prediccion datos matriz sistema texto datos clasificacion
+
+DOC:7
+optimizacion red texto imagen datos clasificacion datos matriz
+
+DOC:8
+sistema procesamiento imagen red algoritmos profundo entrenamiento
+
+DOC:9
+aprendizaje datos red vector matriz automatico busqueda
+
+DOC:10
+informacion matriz clasificacion inteligencia vector informacion entrenamiento
+
+DOC:11
+entrenamiento clasificacion artificial informacion entrenamiento estadistica procesamiento profundo
+
+DOC:12
+vector inteligencia prediccion red busqueda datos
+
+DOC:13
+inteligencia neuronal profundo prediccion aprendizaje inteligencia clasificacion artificial modelo
+
+DOC:14
+imagen sistema sistema vector clasificacion busqueda algoritmos clasificacion algoritmos
+
+DOC:15
+analisis clasificacion sistema entrenamiento estadistica prediccion
+
+DOC:16
+datos estadistica modelo analisis imagen vector
+
+DOC:17
+artificial entrenamiento sistema entrenamiento algoritmos artificial artificial
+
+DOC:18
+inteligencia lenguaje entrenamiento matriz lenguaje clasificacion lenguaje analisis entrenamiento texto automatico
+
+DOC:19
+datos clasificacion informacion optimizacion matriz procesamiento modelo entrenamiento inteligencia lenguaje algoritmos
+
+DOC:20
+procesamiento analisis vector inteligencia vector prediccion estadistica lenguaje estadistica
+
+DOC:21
+clasificacion analisis vector matriz clasificacion automatico
+
+DOC:22
+algoritmos datos estadistica modelo algoritmos inteligencia vector analisis
+
+DOC:23
+prediccion busqueda artificial neuronal procesamiento red texto
+
+DOC:24
+algoritmos texto analisis sistema informacion sistema artificial estadistica informacion datos
+
+DOC:25
+clasificacion procesamiento artificial modelo busqueda sistema texto vector estadistica
+
+DOC:26
+procesamiento busqueda texto prediccion procesamiento aprendizaje sistema modelo automatico busqueda estadistica artificial
+
+DOC:27
+sistema optimizacion inteligencia sistema sistema procesamiento matriz imagen red procesamiento datos texto
+
+DOC:28
+lenguaje texto lenguaje lenguaje algoritmos inteligencia profundo neuronal
+
+DOC:29
+estadistica entrenamiento algoritmos inteligencia algoritmos red vector procesamiento
+
+DOC:30
+lenguaje sistema datos analisis aprendizaje neuronal texto analisis clasificacion sistema busqueda lenguaje
+
+DOC:31
+red sistema analisis modelo sistema neuronal automatico algoritmos clasificacion
+
+DOC:32
+texto automatico red red modelo clasificacion
+
+DOC:33
+optimizacion artificial prediccion informacion datos optimizacion neuronal datos inteligencia
+
+DOC:34
+estadistica analisis sistema inteligencia procesamiento inteligencia artificial estadistica modelo algoritmos optimizacion
+
+DOC:35
+sistema automatico artificial aprendizaje aprendizaje busqueda neuronal neuronal
+
+DOC:36
+neuronal algoritmos automatico informacion sistema datos prediccion
+
+DOC:37
+matriz profundo modelo procesamiento datos imagen
+
+DOC:38
+aprendizaje imagen neuronal aprendizaje imagen estadistica estadistica profundo modelo algoritmos
+
+DOC:39
+datos artificial profundo informacion matriz procesamiento modelo prediccion artificial matriz analisis entrenamiento
+
+DOC:40
+lenguaje texto automatico red algoritmos optimizacion
+
+DOC:41
+optimizacion inteligencia sistema clasificacion prediccion imagen
+
+DOC:42
+vector profundo aprendizaje profundo clasificacion busqueda clasificacion
+
+DOC:43
+vector artificial datos busqueda sistema informacion modelo neuronal estadistica analisis entrenamiento red
+
+DOC:44
+analisis inteligencia aprendizaje datos estadistica artificial algoritmos procesamiento lenguaje automatico
+
+DOC:45
+aprendizaje lenguaje optimizacion aprendizaje busqueda artificial
+
+DOC:46
+datos prediccion texto vector inteligencia profundo prediccion
+
+DOC:47
+informacion entrenamiento clasificacion red datos prediccion vector
+
+DOC:48
+prediccion busqueda aprendizaje prediccion vector vector informacion algoritmos procesamiento lenguaje red red
+
+DOC:49
+imagen aprendizaje vector informacion clasificacion neuronal imagen artificial vector
+
+DOC:50
+red analisis lenguaje entrenamiento vector inteligencia
+
+DOC:51
+texto lenguaje automatico texto lenguaje texto inteligencia
+
+DOC:52
+aprendizaje estadistica sistema procesamiento neuronal informacion lenguaje red matriz estadistica
+
+DOC:53
+aprendizaje artificial informacion aprendizaje neuronal optimizacion informacion matriz inteligencia estadistica
+
+DOC:54
+matriz automatico imagen aprendizaje matriz clasificacion profundo algoritmos informacion
+
+DOC:55
+texto optimizacion vector analisis modelo informacion texto
+
+DOC:56
+optimizacion vector lenguaje neuronal datos datos texto estadistica
+
+DOC:57
+clasificacion texto matriz matriz informacion red modelo lenguaje
+
+DOC:58
+optimizacion profundo imagen optimizacion automatico prediccion artificial informacion sistema sistema texto
+
+DOC:59
+analisis datos profundo neuronal artificial entrenamiento busqueda vector
+
+DOC:60
+matriz prediccion vector estadistica lenguaje aprendizaje modelo aprendizaje profundo profundo prediccion
+
+DOC:61
+inteligencia texto texto informacion artificial optimizacion datos imagen datos
+
+DOC:62
+datos neuronal artificial automatico texto clasificacion procesamiento lenguaje imagen sistema
+
+DOC:63
+clasificacion sistema prediccion sistema entrenamiento automatico optimizacion lenguaje sistema artificial
+
+DOC:64
+inteligencia automatico vector vector prediccion inteligencia datos
+
+DOC:65
+estadistica automatico lenguaje matriz prediccion imagen artificial automatico texto sistema prediccion busqueda
+
+DOC:66
+prediccion informacion informacion datos sistema busqueda prediccion
+
+DOC:67
+clasificacion neuronal estadistica algoritmos vector aprendizaje automatico aprendizaje vector lenguaje
+
+DOC:68
+entrenamiento analisis algoritmos clasificacion profundo imagen lenguaje entrenamiento
+
+DOC:69
+vector inteligencia profundo sistema datos entrenamiento prediccion
+
+DOC:70
+optimizacion modelo analisis datos matriz vector aprendizaje algoritmos optimizacion
+
+DOC:71
+clasificacion lenguaje red modelo informacion red entrenamiento artificial prediccion imagen
+
+DOC:72
+profundo red modelo imagen entrenamiento profundo clasificacion sistema imagen
+
+DOC:73
+algoritmos datos optimizacion optimizacion entrenamiento imagen
+
+DOC:74
+aprendizaje estadistica aprendizaje sistema neuronal automatico lenguaje optimizacion datos matriz artificial inteligencia
+
+DOC:75
+lenguaje red datos estadistica aprendizaje matriz optimizacion busqueda matriz
+
+DOC:76
+prediccion profundo estadistica inteligencia texto red
+
+DOC:77
+artificial estadistica inteligencia lenguaje artificial red lenguaje neuronal algoritmos texto clasificacion
+
+DOC:78
+aprendizaje busqueda algoritmos procesamiento optimizacion aprendizaje imagen imagen red inteligencia
+
+DOC:79
+neuronal optimizacion automatico informacion sistema prediccion red texto vector texto
+
+DOC:80
+prediccion prediccion optimizacion busqueda estadistica optimizacion
+
+DOC:81
+sistema informacion entrenamiento procesamiento imagen artificial texto analisis sistema automatico
+
+DOC:82
+artificial informacion datos optimizacion red estadistica red inteligencia
+
+DOC:83
+procesamiento prediccion estadistica automatico prediccion vector
+
+DOC:84
+modelo texto inteligencia artificial red optimizacion profundo sistema lenguaje artificial
+
+DOC:85
+vector artificial optimizacion informacion matriz prediccion sistema algoritmos analisis datos
+
+DOC:86
+imagen busqueda optimizacion lenguaje prediccion entrenamiento profundo estadistica
+
+DOC:87
+vector vector modelo clasificacion profundo estadistica red sistema
+
+DOC:88
+clasificacion imagen informacion imagen matriz procesamiento sistema datos aprendizaje prediccion automatico estadistica
+
+DOC:89
+profundo texto estadistica modelo clasificacion inteligencia sistema automatico inteligencia texto profundo
+
+DOC:90
+artificial inteligencia texto texto sistema datos aprendizaje datos neuronal inteligencia
+
+DOC:91
+texto optimizacion aprendizaje entrenamiento estadistica prediccion automatico
+
+DOC:92
+artificial imagen prediccion texto artificial matriz sistema algoritmos texto busqueda
+
+DOC:93
+artificial procesamiento busqueda texto procesamiento red modelo neuronal vector datos red
+
+DOC:94
+inteligencia lenguaje red artificial procesamiento modelo busqueda imagen
+
+DOC:95
+artificial red texto imagen datos optimizacion matriz profundo optimizacion algoritmos clasificacion optimizacion
+
+DOC:96
+datos sistema datos profundo busqueda optimizacion lenguaje algoritmos
+
+DOC:97
+clasificacion profundo automatico sistema lenguaje optimizacion sistema matriz
+
+DOC:98
+profundo matriz lenguaje clasificacion vector busqueda sistema estadistica aprendizaje automatico
+
+DOC:99
+prediccion texto automatico neuronal modelo procesamiento modelo
+
+DOC:100
+sistema red texto inteligencia busqueda imagen algoritmos inteligencia busqueda artificial
+
+DOC:101
+optimizacion algoritmos optimizacion matriz texto estadistica red busqueda modelo busqueda imagen artificial
+
+DOC:102
+matriz clasificacion texto informacion modelo texto
+
+DOC:103
+inteligencia modelo optimizacion busqueda aprendizaje aprendizaje
+
+DOC:104
+red aprendizaje prediccion datos matriz red
+
+DOC:105
+sistema profundo analisis red lenguaje procesamiento artificial busqueda analisis artificial matriz
+
+DOC:106
+aprendizaje entrenamiento artificial clasificacion matriz lenguaje entrenamiento texto estadistica vector imagen
+
+DOC:107
+sistema informacion sistema estadistica sistema clasificacion modelo clasificacion neuronal
+
+DOC:108
+profundo imagen algoritmos red inteligencia profundo inteligencia imagen modelo automatico analisis entrenamiento
+
+DOC:109
+informacion procesamiento lenguaje busqueda red artificial
+
+DOC:110
+matriz informacion aprendizaje datos texto datos estadistica informacion texto sistema estadistica vector
+
+DOC:111
+automatico algoritmos vector analisis procesamiento datos sistema automatico inteligencia
+
+DOC:112
+estadistica informacion automatico artificial algoritmos clasificacion prediccion entrenamiento optimizacion red profundo
+
+DOC:113
+estadistica automatico datos entrenamiento clasificacion prediccion procesamiento busqueda
+
+DOC:114
+red lenguaje texto red neuronal imagen estadistica procesamiento analisis
+
+DOC:115
+estadistica aprendizaje automatico sistema clasificacion procesamiento inteligencia

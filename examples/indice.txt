@@ -1,0 +1,11 @@
+-- Fichero: indice.txt --
+
+aprendizaje -> [3]
+fundamentales -> [2]
+busqueda -> [2]
+algoritmos -> [2]
+datos -> [1, 3]
+aprende -> [1]
+artificial -> [1, 3]
+automatico -> [3]
+inteligencia -> [1, 3]

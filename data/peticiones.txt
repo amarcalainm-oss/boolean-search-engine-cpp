@@ -1,0 +1,5 @@
+-- Fichero de entrada 2: peticiones.txt --
+09:00:01 | usuario_42 | inteligencia AND datos
+09:00:02 | usuario_17 | algoritmos OR aprendizaje
+09:00:02 | usuario_99 | busqueda
+09:00:05 | usuario_42 | inteligencia AND artificial AND datos

@@ -1,0 +1,10 @@
+-- Fichero: corpus_con_duplicados.txt -- 
+ 
+DOC:1 
+la inteligencia artificial aprende 
+ 
+DOC:1 
+la inteligencia artificial aprende 
+ 
+DOC:3 
+aprendizaje automatico e inteligencia 
