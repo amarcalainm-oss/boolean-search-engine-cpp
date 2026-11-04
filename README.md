@@ -83,5 +83,4 @@ Probado con g++ 15.2 (MSYS2) y MSVC (Visual Studio 2022).
 
 - Las consultas no admiten paréntesis ni `NOT`.
 - La tokenización separa solo por espacios, así que los signos de puntuación quedan pegados a las palabras ("datos," ≠ "datos") y no se normalizan los acentos.
-- En el indexado básico, comprobar si un documento ya está en la lista es O(n) (`std::find` sobre un `vector`). La versión deduplicada lo resuelve con `unordered_set`.
 - Siguientes pasos naturales: ranking por relevancia (TF-IDF / BM25), *stemming* y persistencia del índice en binario.
